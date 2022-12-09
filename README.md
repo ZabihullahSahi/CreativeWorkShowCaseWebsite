@@ -30,4 +30,4 @@ If you want to contact with me you can reach me at (https://linktr.ee/zabisahi).
 
 This project is **free to use** and does not contains any license.
 
-https://github-readme-stats.vercel.app/api?username=ZabihullahSahi&show_icons=true&theme=dracula
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabihullahsahi&" alt="zabihullahsahi" /></p>
